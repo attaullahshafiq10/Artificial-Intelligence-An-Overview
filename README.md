@@ -68,13 +68,13 @@ Now that you have a broad understanding of the differences between some key AI c
 
 Machine Learning, a subset of AI, uses computer algorithms to analyze data and make intelligent decisions based on what it has learned.
 
-<img src="../1. Introduction to Artificial Intelligence (AI)/images/ai_ml.png">
+
 
 Instead of following rules-based algorithms, machine learning builds models to classify and make predictions from data.
 
 Machine Learning is a broad field and we can split it up into three different categories, Supervised Learning, Unsupervised Learning, and Reinforcement Learning. There are many different tasks we can solve with these.
 
-<img src="../1. Introduction to Artificial Intelligence (AI)/images/types_of_ml.png">
+
 
 <h3>Machine Learning Techniques and Training</h3>
 
@@ -90,7 +90,7 @@ With Machine Learning, we typically take a dataset and split it into three sets,
 
 While Machine Learning is a subset of Artificial Intelligence, Deep Learning is a specialized subset of Machine Learning. Deep Learning layers algorithms to create a Neural Network, an artificial replication of the structure and functionality of the brain, enabling AI systems to continuously learn on the job and improve the quality and accuracy of results.
 
-<img src="../1. Introduction to Artificial Intelligence (AI)/images/dl.png">
+
 
 This is what enables these systems to learn from unstructured data such as photos, videos, and audio files. Deep Learning, for example, enables natural language understanding capabilities of AI systems, and allows them to work out the context and intent of what is being conveyed.
 
@@ -104,19 +104,17 @@ For instance, you give a deep learning algorithm thousands of images and labels 
 
 An artificial neural network is a collection of smaller units called neurons, which are computing units modeled on the way the human brain processes information. Artificial neural networks borrow some ideas from the biological neural network of the brain, in order to approximate some of its processing results. These units or neurons take incoming data like the biological neural networks and learn to make decisions over time.
 
-<img src="../1. Introduction to Artificial Intelligence (AI)/images/back_prop.png">
 
 A collection of neurons is called a layer, and a layer takes in an input and provides an output. Any neural network will have one input layer and one output layer. It will also have one or more hidden layers which simulate the types of activity that goes on in the human brain. Hidden layers take in a set of weighted inputs and produce an output through an activation function. A neural network having more than one hidden layer is referred to as a deep neural network.
 
-<img src="../1. Introduction to Artificial Intelligence (AI)/images/dnn.png">
+
 
 Perceptrons are the simplest and oldest types of neural networks. They are single-layered neural networks consisting of input nodes connected directly to an output node. Input layers forward the input values to the next layer, by means of multiplying by a weight and summing the results. Hidden layers receive input from other nodes and forward their output to other nodes. Hidden and output nodes have a property called bias, which is a special type of weight that applies to a node after the other inputs are considered. Finally, an activation function determines how a node responds to its inputs. The function is run against the sum of the inputs and bias, and then the result is forwarded as an output. Activation functions can take different forms, and choosing them is a critical component to the success of a neural network.
 
-<img src="../1. Introduction to Artificial Intelligence (AI)/images/cnn.png">
 
 In a convolutional network, this process occurs over a series of layers, each of which conducts a convolution on the output of the previous layer. CNNs are adept at building complex features from less complex ones.
 
-<img src="../1. Introduction to Artificial Intelligence (AI)/images/rnn.png">
+
 
 Recurrent neural networks or RNNs, are recurrent because they perform the same task for every element of a sequence, with prior outputs feeding subsequent stage inputs. In a general neural network, an input is processed through a number of layers and an output is produced with an assumption that the two successive inputs are independent of each other, but that may not hold true in certain scenarios. For example, when we need to consider the context in which a word has been spoken, in such scenarios, dependence on previous observations has to be considered to produce the output. RNNs can make use of information in long sequences, each layer of the network representing the observation at a certain time.
 
