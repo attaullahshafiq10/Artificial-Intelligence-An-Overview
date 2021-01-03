@@ -1,4 +1,4 @@
-<h1>Week 1: What is AI? Applications and Examples of AI</h1>
+<h1>What is AI? Applications and Examples of AI</h1>
 
 
 
@@ -29,7 +29,7 @@ AI is impacting healthcare in significant ways, by helping doctors arrive at mor
 
 
 
-<h1>Week 2: AI Concepts, Terminology, and Application Areas</h1>
+<h1> AI Concepts, Terminology, and Application Areas</h1>
 
 
 
@@ -134,7 +134,7 @@ The field of computer vision focuses on replicating parts of the complexity of t
 
 
 
-<h1>Week 3: AI: Issues, Concerns and Ethical Considerations</h1>
+<h1> AI: Issues, Concerns and Ethical Considerations</h1>
 
 
 
